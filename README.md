@@ -2,7 +2,7 @@
 ## Introduction
 
 Welcome to the Web Calendar repository! 
-This Spring Boot application allows users to manage events through a simple and intuitive web interface. Users can post events, retrieve them, delete specific events, get today's events, and retrieve events between two specified dates.
+This Spring Boot application allows users to manage events. Users can post events, retrieve them, delete specific events, get today's events, and retrieve events between two specified dates.
 
 ## Features
 - Post Events: Users can create and post new events with details such as title, description, date, and time.
